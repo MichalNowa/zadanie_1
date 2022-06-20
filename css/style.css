@@ -19,6 +19,7 @@ main
     text-align: center;
     padding: 20px;
     height: 125vh;
+    border-radius: 15px;
 }
 #kalkulator h2
 {
